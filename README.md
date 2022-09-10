@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rafael Furquim
 - 👀 I’m interested in Programming and Mechanical Engineering
 - 🌱 I’m currently learning Web Development and Python
-- 💞️ I’m looking to collaborate on 
 - 📫 Check out my personal website: https://furquim25.github.io/rafael-furquim/.
 
 <!---
