@@ -21,7 +21,7 @@
   <a href = "mailto:rafaelfurquim25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/furquim25/furquim25/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
